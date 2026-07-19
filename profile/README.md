@@ -1,6 +1,6 @@
 # HELLFIRE AI Solutions
 
-Agentic AI implementation services for mid-market business — DACH-first, then US (California/New York).
+Agentic AI implementation services for mid-market business 
 
 We build every module for ourselves first. Each one runs for real inside HELLFIRE/TETA+PI before it's extracted into a fixed-price template + install for clients.
 
